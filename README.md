@@ -18,6 +18,7 @@ Sohbet , public , ekip vb. sunucular için yaptığım bot(larım)
 
 ![image](https://user-images.githubusercontent.com/101521169/198887287-426c33ff-1bda-44c0-aae8-fd0606de7bcc.png)
 
+![image](https://user-images.githubusercontent.com/101521169/199278267-471baeda-e373-4e4c-8f88-345e26d8fb87.png)
 
 
 
